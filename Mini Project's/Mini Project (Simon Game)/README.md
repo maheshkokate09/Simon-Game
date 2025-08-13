@@ -82,4 +82,4 @@ Each time you get the sequence correct, the game level increases and the pattern
 
 ---
 
-**👨‍💻 Author** ######[Mahesh Kokate](https://github.com/maheshkokate09 "Mahesh Kokate")
+**👨‍💻 Author**[Mahesh Kokate](https://github.com/maheshkokate09 "Mahesh Kokate")
